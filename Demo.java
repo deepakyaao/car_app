@@ -7,11 +7,12 @@ class Demo{
 	System.out.println("deepakyaao Contribution");
 
 	 System.out.println("Arjun Krishna Contribution 2");
-<<<<<<< HEAD
-	 int a=10;
-=======
 
->>>>>>> f8378d2fa9de6ffcd9fe4281dba3d443c092d5f5
+	 int a=10;
+
+
+
   }
 }
+
 
