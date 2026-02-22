@@ -7,6 +7,7 @@ class Demo{
 	System.out.println("deepakyaao Contribution");
 
 	 System.out.println("Arjun Krishna Contribution 2");
+	 String s="release";
 
 	 
      int b=220;
