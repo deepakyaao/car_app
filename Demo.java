@@ -7,7 +7,16 @@ class Demo{
 	System.out.println("deepakyaao Contribution");
 
 	 System.out.println("Arjun Krishna Contribution 2");
+
 	 
      int b=220;
+
+
+	 int a=10;
+
+
+
   }
 }
+
+
