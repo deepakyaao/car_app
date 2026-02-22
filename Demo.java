@@ -4,5 +4,6 @@ class Demo{
 
     System.out.println("Arjun Krishna Contribution");
 	 System.out.println("Arjun Krishna Contribution 2");
+	 int a=10;
   }
 }
