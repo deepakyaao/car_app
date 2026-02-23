@@ -10,5 +10,11 @@ class Demo{
 	 String s="release";
 
   }
+  
+  void m2(){
+	  
+	  System.out.println("m2()");
+	  
+  }
 }
 
