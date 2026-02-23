@@ -8,13 +8,23 @@ class Demo{
 
 	 System.out.println("Arjun Krishna Contribution 2");
 	 String s="release";
+	 
+	 
 
   }
   
+
   void m2(){
 	  
 	  System.out.println("m2()");
 	  
   }
+
+  void m1(){
+	  System.out.println("m1() method");
+  }
+  
+  
+
 }
 
